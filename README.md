@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruendyant01" alt="ruendyant01" /></a> </p>
 
-- 🌱 I’m currently learning **PHP Laravel and Java Spring**
+- 🌱 I’m currently learning **Java Spring**
 
 - 📫 How to reach me **ruendyant.mayraclle@gmail.com**
 
